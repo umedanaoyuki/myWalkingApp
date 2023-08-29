@@ -2,7 +2,10 @@
 
 header {
   background-color: white;
-  /*display: flex;*/
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
 }
 
 body {
