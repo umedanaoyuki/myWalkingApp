@@ -88,4 +88,16 @@ h3 {
   margin-top: 16px;
 }
 
+/* footer */
+footer {
+  color: white;
+  background: #333;
+  padding: 64px 0;
+  text-align: center;
+}
+
+small {
+  font-size: 14px;
+}
+
 
