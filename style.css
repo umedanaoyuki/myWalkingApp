@@ -80,5 +80,12 @@ h3 {
   text-align: center;
 }
 
+.feature h3 {
+  margin-top: 16px;
+}
+
+.feature p {
+  margin-top: 16px;
+}
 
 
