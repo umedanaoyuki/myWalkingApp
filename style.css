@@ -42,20 +42,12 @@ h1 {
   font-size: 0;
 }
 
-h2 {
-  text-align: center;
-}
-
-p {
-  text-align: center;
-}
-
 .hero {
   background-color: aqua;
-}
-
-section img p{
-  display: flex;
+  background-image: url("bg.png");
+  background-repeat: repeat-x;
+  background-position: center bottom;
+  text-align: center;
 }
 
 
