@@ -7,10 +7,12 @@ body {
 
 img {
   vertical-align: bottom;
+  margin-top: 16px;
 }
 
 h2 {
-  margin: 0;
+  /*margin: 0;*/
+  /*margin-top: 16px;*/
   font-weight: normal;
 }
 
@@ -25,6 +27,7 @@ p {
   padding: 8px 16px;
   text-decoration: none;
   display: inline-block;
+  margin-top: 16px;
 }
 
 
@@ -48,7 +51,15 @@ h1 {
   background-repeat: repeat-x;
   background-position: center bottom;
   text-align: center;
+  padding-top: 64px;
 }
 
+.hero img {
+  margin-top: 64px;
+}
+
+.hero .btn {
+  margin-top: 64px;
+}
 
 
