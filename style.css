@@ -120,6 +120,21 @@ small {
     display: inline;
   }
 
+  /* hero */
+
+  .hero {
+    display: flex;
+    align-items: center;
+  }
+
+  .hero div {
+    flex: 1;
+  }
+
+  .hero img {
+    margin-top: 0;
+  }
+
 
 }
 
