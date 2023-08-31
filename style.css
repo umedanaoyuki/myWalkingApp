@@ -1,5 +1,27 @@
 @charset "utf-8";
 
+
+/* common */
+body {
+  margin: 0;
+}
+
+img {
+  vertical-align: bottom;
+}
+
+.btn {
+  background-color: green;
+  color: azure;
+  border-radius: 8px;
+  padding: 8px 16px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+/* header */
+
 header {
   background-color: white;
   display: flex;
@@ -8,24 +30,9 @@ header {
   padding: 16px;
 }
 
-body {
-  margin: 0;
-}
-
 h1 {
   margin: 0;
   font-size: 0;
 }
 
-img {
-  vertical-align: bottom;
-}
 
-a {
-  background-color: green;
-  color: azure;
-  border-radius: 8px;
-  padding: 8px 16px;
-  text-decoration: none;
-  display: inline-block;
-}
