@@ -12,6 +12,7 @@ img {
 
 h2 {
   font-weight: normal;
+  text-align: center;
 }
 
 p {
@@ -43,6 +44,11 @@ h1 {
   font-size: 0;
 }
 
+h3 {
+  margin: 0;
+  font-weight: normal;
+}
+
 .hero {
   background-color: aqua;
   background-image: url("bg.png");
@@ -59,5 +65,17 @@ h1 {
 .hero .btn {
   margin-top: 64px;
 }
+
+/* features */
+
+.features {
+  padding: 64px;
+}
+
+.feature {
+  margin-top: 64px;
+}
+
+
 
 
