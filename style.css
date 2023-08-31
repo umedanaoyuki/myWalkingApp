@@ -1,6 +1,5 @@
 @charset "utf-8";
 
-
 /* common */
 body {
   margin: 0;
@@ -8,6 +7,15 @@ body {
 
 img {
   vertical-align: bottom;
+}
+
+h2 {
+  margin: 0;
+  font-weight: normal;
+}
+
+p {
+  margin: 0;
 }
 
 .btn {
@@ -21,7 +29,6 @@ img {
 
 
 /* header */
-
 header {
   background-color: white;
   display: flex;
@@ -34,5 +41,22 @@ h1 {
   margin: 0;
   font-size: 0;
 }
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.hero {
+  background-color: aqua;
+}
+
+section img p{
+  display: flex;
+}
+
 
 
