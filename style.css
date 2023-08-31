@@ -100,4 +100,14 @@ small {
   font-size: 14px;
 }
 
+/* large screen */
+@media (min-width: 600px) {
+
+  body {
+    background: pink;
+  }
+
+
+}
+
 
