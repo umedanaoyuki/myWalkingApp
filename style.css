@@ -135,6 +135,21 @@ small {
     margin-top: 0;
   }
 
+  /* features */
+
+  .feature {
+    display: flex;
+    gap: 32px;
+  }
+
+  .pic {
+    width: 300px;
+  }
+
+  .desc {
+    flex: 1;
+  }
+
 
 }
 
